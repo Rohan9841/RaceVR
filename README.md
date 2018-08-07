@@ -1,5 +1,5 @@
 # RaceVR
-This is a cardboard VR racing game. Watch DemoVideo.mp4  
+This is a unity project for cardboard VR racing game. Watch DemoVideo.mp4 in the github repository to get a peek at it.  
 
 #Getting Started in Unity:
 1. Clone the repo 
